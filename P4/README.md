@@ -16,7 +16,7 @@ http://www.scipy.org/scipylib/download.html
 
 ## Code
 
-'smartcab/agent.py' is the main file that implements the algorithm.
+`smartcab/agent.py` is the main file that implements the algorithm.
 
 ## Run
 
