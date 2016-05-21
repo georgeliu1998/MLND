@@ -5,10 +5,10 @@ Albeit a small step, it is an important one, one towards an exciting and rewardi
 ## Contents
 There are five projects in this repo:
 
-1. Predicting Boston Housing Prices
-2. Building a Student Intervention System
-3. Creating Customer Segmentations with Unsupervised Learning Techniques
-4. Train a Smart Cab to Drive with Reinforcement Learning
+1. [Predicting Boston Housing Prices](https://github.com/georgeliu1998/machine-learning-engineer-nanodegree/tree/master/P1)
+2. [Building a Student Intervention System](https://github.com/georgeliu1998/machine-learning-engineer-nanodegree/tree/master/P2)
+3. [Creating Customer Segmentations with Unsupervised Learning Techniques](https://github.com/georgeliu1998/machine-learning-engineer-nanodegree/tree/master/P3)
+4. [Train a Smart Cab to Drive with Reinforcement Learning](https://github.com/georgeliu1998/machine-learning-engineer-nanodegree/tree/master/P4)
 5. Identifying Dissatisfied Customers for Santander Bank with Machine Learning
 
 ## License
