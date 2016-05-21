@@ -11,5 +11,8 @@ There are five projects in this repo:
 4. [Train a Smart Cab to Drive with Reinforcement Learning](https://github.com/georgeliu1998/machine-learning-engineer-nanodegree/tree/master/P4)
 5. Identifying Dissatisfied Customers for Santander Bank with Machine Learning
 
+## To Fellow Udacians
+It's a great choice you made choosing Udacity! Just like me :-) Feel free to get inspiration here for your own projects. However, please do not copy and paste, since the most important thing is your understanding of the material and your own ability to tackle different problems, which cannot be achieved by simply using borrowed code. Best of luck with your study and stay Udacious! (Don't forget to [connect with me on LinkedIn](https://ca.linkedin.com/in/georgeliu2) to stay in touch)
+
 ## License
 Released under the MIT license.
