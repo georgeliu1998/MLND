@@ -1,1 +1,1 @@
-Naive Bayes tutorial from scratch. Can be viewed in the iPython notebook. Happy learning!
+Python 3 is used in this tutorial
